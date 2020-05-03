@@ -5,9 +5,9 @@ const port = 8080;
 const checksum_lib = require('./checksum.js');
 
 var PaytmConfig = {
-	mid: "XXXXXXXXXXXXXXXXXXXX",
-	key: "XXXXXXXXXXXXXXXX",
-	website: "XXXXXXXXXX"
+	mid: "qCGeng20200603598739",
+	key: "W_ipsL9Yhqq8!x@z",
+	website: "WEBSTAGING"
 }
 
 
